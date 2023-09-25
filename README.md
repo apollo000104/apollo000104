@@ -24,7 +24,7 @@
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/uml.svg" alt="UML" width="40" height="40" />&nbsp;
 	<img src="https://github.com/apollo000104/apollo000104/blob/main/icons/html.svg" alt="HTML" width="40" height="40" />&nbsp;
 	<img src="https://github.com/apollo000104/apollo000104/blob/main/icons/css.svg" alt="CSS" width="40" height="40" />&nbsp;</p>
-
+<p align="left">
 	<h4> Frameworks</h4><p>
 	<img src="https://github.com/apollo000104/apollo000104/blob/main/icons/numpy.svg" alt="Numpy" width="40" height="40" />&nbsp;
 	<img src="https://github.com/apollo000104/apollo000104/blob/main/icons/angular-icon.svg" alt="Angular" width="40" height="40" />&nbsp;
@@ -38,7 +38,7 @@
 	<img src="https://github.com/apollo000104/apollo000104/blob/main/icons/django.svg" alt="Django" width="40" height="40" />&nbsp;
 	<img src="https://github.com/apollo000104/apollo000104/blob/main/icons/wordpress-icon.svg" alt="Wordpress" width="40" height="40" />&nbsp;
 	<img src="https://github.com/apollo000104/apollo000104/blob/main/icons/matplotlib.svg" alt="Matplotlib" width="60" height="40" />&nbsp;</p>
-
+<p align="left">
 	<h4>Software Packages</h4><p>
 	<img src="https://github.com/apollo000104/apollo000104/blob/main/icons/aws-icon.svg" alt="AWS" width="40" height="40" />&nbsp;
 	<img src="https://github.com/apollo000104/apollo000104/blob/main/icons/gitlab.svg" alt="GitLab" width="40" height="40" />&nbsp;
