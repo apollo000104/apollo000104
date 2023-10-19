@@ -2,9 +2,9 @@
 <!--Intro Section-->
 <img src="https://github.com/apollo000104/apollo000104/blob/main/intro.gif" width="30%" align="right">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/apollo000104/apollo000104/blob/main/icons/cs.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Dual Degree Computer Science & Engineering graduate from 
-Nanyang Technological University.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/apollo000104/apollo000104/blob/main/icons/cs.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Master of Computer Science.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/apollo000104/apollo000104/blob/main/icons/ai.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Skilled in Artificial Intelligence & Software Development.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/apollo000104/apollo000104/blob/main/icons/ai.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;I am crazy about using deep learning in the fields of healthcare and finance.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/apollo000104/apollo000104/blob/main/icons/dj.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;When not coding, I like to make EDM :metal:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/apollo000104/apollo000104/blob/main/icons/manu.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;If you are a Real Madrid fan, we are already friends.:) :heart: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/apollo000104/apollo000104/blob/main/icons/cv.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Here's more about my work experience in boring Arial font with font-size 12 [(Resume)](https://Resume.pdf) <br><br>
