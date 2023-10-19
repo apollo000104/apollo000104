@@ -33,7 +33,6 @@ Nanyang Technological University.<br>
 	<img src="https://github.com/apollo000104/apollo000104/blob/main/icons/pyspark.png" alt="PySpark" width="110" height="50" />&nbsp;
 	<img src="https://github.com/apollo000104/apollo000104/blob/main/icons/tensorflow-tf.svg" alt="TensorFlow" width="40" height="40" />&nbsp;
 	<img src="https://github.com/apollo000104/apollo000104/blob/main/icons/keras.svg" alt="Keras" width="40" height="40" />&nbsp;
-	<img src="https://github.com/apollo000104/apollo000104/blob/main/icons/scikit-learn.svg" alt="Scikit Learn" width="60" height="40" />&nbsp;
 	<img src="https://github.com/apollo000104/apollo000104/blob/main/icons/django.svg" alt="Django" width="40" height="40" />&nbsp;
 	<img src="https://github.com/apollo000104/apollo000104/blob/main/icons/wordpress-icon.svg" alt="Wordpress" width="40" height="40" />&nbsp;
 	<img src="https://github.com/apollo000104/apollo000104/blob/main/icons/matplotlib.svg" alt="Matplotlib" width="60" height="40" />&nbsp;</p>
